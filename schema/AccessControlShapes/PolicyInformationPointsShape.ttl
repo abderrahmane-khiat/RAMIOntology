@@ -31,4 +31,4 @@
         sh:minCount 0 ;
         sh:severity sh:Violation ;
         sh:message "rami:internalInformationPoint needs to be instance of rami:Submodel."@en ;
-    ] ;
+    ] .
