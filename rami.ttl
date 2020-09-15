@@ -25,7 +25,7 @@
 <https://w3id.org/i40/rami#> rdf:type owl:Ontology ;
                               rdfs:comment "Update implementing the specifiations coming from 'Details of the Asset Administration Shell - Part 1: The exchange of information between partners in the value chain of Industrie 4.0 (Version 1.0)'" ;
                               vann:preferredNamespaceUri "https://w3id.org/i40/rami#" ;
-                              owl:versionInfo 0.4 ;
+                              owl:versionInfo 0.5 ;
                               skos:definition "An Ontology to represents the Reference Architecture Model for Industry 4.0 (RAMI), including the concept of the Administration Shell I4.0 Component."@en ;
                               void:vocabulary rdfs: ,
                                               skos: ,
