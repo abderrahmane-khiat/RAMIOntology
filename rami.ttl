@@ -1,4 +1,4 @@
-@prefix : <https://w3id.org/i40/rami#> .    
+@prefix : <https://w3id.org/i40/rami#> .       
 @prefix dc: <http://purl.org/dc/elements/1.1/> .
 @prefix om: <http://www.wurvoc.org/vocabularies/om-1.8/> .
 @prefix DUL: <http://www.loa-cnr.it/ontologies/DUL.owl#> .
