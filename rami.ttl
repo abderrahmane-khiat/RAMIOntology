@@ -282,6 +282,7 @@ rami:describes rdf:type owl:ObjectProperty ;
                rdfs:domain rami:AdminShell ;
                rdfs:range rami:Asset ;
                rdfs:comment "Connect the Asset with the Administration Shell"@en ;
+               rdfs:comment "Verbinden Sie das Asset mit der Administrationsshell"@de ;
                skos:altLabel "describes"@en .
 
 
