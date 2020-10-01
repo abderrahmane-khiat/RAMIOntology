@@ -258,7 +258,6 @@ rami:defaultPermissions rdf:type owl:ObjectProperty ;
 ###  https://w3id.org/i40/rami#defaultSubjectAttributes
 rami:defaultSubjectAttributes rdf:type owl:ObjectProperty ;
                               rdfs:comment """Reference to a submodel defining the default subjects attributes for the AAS that can be used to describe access permission rules.
-The submodel is of kind=Type."""@en ;
                               rdfs:label "defaultSubjectAttributes"^^xsd:string .
 
 
