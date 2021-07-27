@@ -113,7 +113,7 @@ skos:prefLabel rdf:type owl:AnnotationProperty .
 om:hasNumericalValue rdf:type owl:DatatypeProperty ;
                      rdfs:domain om:Measure .
 
-
+add something
 ###  https://w3id.org/i40/rami#assetId
 rami:assetId rdf:type owl:DatatypeProperty ;
              rdfs:domain rami:Asset .
